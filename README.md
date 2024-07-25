@@ -33,7 +33,7 @@ Navigate through the programs and start exploring the concepts.
 
 ### Beginner
 
-- **[PrimitiveDatatypes.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/PrimitiveDatatypes.java)**: Demonstrates the use of primitive data types in Java.
+- **[PrimitiveDatatypes.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/NonPrimitiveDataTypes.java)**: Demonstrates the use of primitive data types in Java.
 - **[NonPrimitiveDataTypes.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/NonPrimitiveDataTypes.java)**: Demonstrates the use of non-primitive data types in Java.
 - **[array.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/array.java)**: Basic array operations.
 - **[arrayQ1.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/arrayQ1.java)**: Example of an array problem.
