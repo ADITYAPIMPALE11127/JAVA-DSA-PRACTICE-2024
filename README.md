@@ -33,37 +33,33 @@ Navigate through the programs and start exploring the concepts.
 
 ### Beginner
 
-- **[PrimitiveDatatypes.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/NonPrimitiveDataTypes.java)**: Demonstrates the use of primitive data types in Java.
-- **[NonPrimitiveDataTypes.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/NonPrimitiveDataTypes.java)**: Demonstrates the use of non-primitive data types in Java.
-- **[array.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/array.java)**: Basic array operations.
-- **[arrayQ1.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/arrayQ1.java)**: Example of an array problem.
-- **[arraysDef2.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/arraysDef2.java)**: Another array example.
-- **[asciiToArray.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/asciiToArray.java)**: Converts ASCII values to an array.
-- **[evenOdd.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/evenOdd.java)**: Checks if a number is even or odd.
-- **[factorial.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/factorial.java)**: Calculates the factorial of a number.
-- **[fibonacciSeries.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/fibonacciSeries.java)**: Generates the Fibonacci series.
-- **[operators.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/operators.java)**: Demonstrates the use of operators in Java.
-- **[printFriendsNames.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/printFriendsNames.java)**: Prints a list of friends' names.
-- **[temperature.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/temperature.java)**: Converts temperature between Celsius and Fahrenheit.
-- **[userInput.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/userInput.java)**: Takes user input.
-- **[votingEligible.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/votingEligible.java)**: Checks if a user is eligible to vote.
-- **[vowelChecker.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/vowelChecker.java)**: Checks if a character is a vowel.
+- **[PrimitiveDatatypes.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/PrimitiveDatatypes.java)**: Demonstrates the use of primitive data types in Java.
+- **[NonPrimitiveDataTypes.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/NonPrimitiveDataTypes.java)**: Demonstrates the use of non-primitive data types in Java.
+- **[array.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/array.java)**: Basic array operations.
+- **[arrayQ1.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/arrayQ1.java)**: Example of an array problem.
+- **[arraysDef2.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/arraysDef2.java)**: Another array example.
+- **[asciiToArray.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/asciiToArray.java)**: Converts ASCII values to an array.
+- **[evenOdd.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/evenOdd.java)**: Checks if a number is even or odd.
+- **[factorial.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/factorial.java)**: Calculates the factorial of a number.
+- **[fibonacciSeries.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/fibonacciSeries.java)**: Generates the Fibonacci series.
+- **[operators.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/operators.java)**: Demonstrates the use of operators in Java.
+- **[printFriendsNames.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/printFriendsNames.java)**: Prints a list of friends' names.
+- **[temperature.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/temperature.java)**: Converts temperature between Celsius and Fahrenheit.
+- **[userInput.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/userInput.java)**: Takes user input.
+- **[votingEligible.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/votingEligible.java)**: Checks if a user is eligible to vote.
+- **[vowelChecker.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/vowelChecker.java)**: Checks if a character is a vowel.
 
 ### Intermediate
 
-- **[MaxInArray.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/MaxInArray.java)**: Finds the maximum value in an array.
-- **[SecondMaxInArray.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/SecondMaxInArray.java)**: Finds the second maximum value in an array.
-- **[SecondMinOfArray.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/SecondMinOfArray.java)**: Finds the second minimum value in an array.
-- **[SumOfMinMax.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/SumOfMinMax.java)**: Calculates the sum of the minimum and maximum values in an array.
-- **[newArrr.java](https://github.com/ADITYAPIMPALE11127/dsa-java-programs/blob/main/newArrr.java)**: Example of array manipulation.
+- **[MaxInArray.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/MaxInArray.java)**: Finds the maximum value in an array.
+- **[SecondMaxInArray.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/SecondMaxInArray.java)**: Finds the second maximum value in an array.
+- **[SecondMinOfArray.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/SecondMinOfArray.java)**: Finds the second minimum value in an array.
+- **[SumOfMinMax.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/SumOfMinMax.java)**: Calculates the sum of the minimum and maximum values in an array.
+- **[newArrr.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/newArrr.java)**: Example of array manipulation.
 
 ### Advanced
 
 Currently, this section is under development. Stay tuned for more advanced programs!
-
-
-Currently, this section is under development. Stay tuned for more advanced programs!
-
 
 Contributing
 We welcome contributions! If you'd like to contribute:
