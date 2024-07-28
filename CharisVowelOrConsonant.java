@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class CharisVowelOrConso {
+public class CharisVowelOrConsonant {
     public static void main(String args[]){
         Scanner input = new Scanner(System.in);
         System.out.print("enter the character: ");
