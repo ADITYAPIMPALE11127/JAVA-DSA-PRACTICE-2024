@@ -6,6 +6,11 @@ public class primeNumber {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter number: ");
         int num = input.nextInt();
+        // Check if the number is 0
+        if (num == 0){
+            System.out.println("Not a prime Number");
+        return;
+        }
         // Check if the number is 1
         if (num == 1) {
             System.out.print("Not a prime number");
