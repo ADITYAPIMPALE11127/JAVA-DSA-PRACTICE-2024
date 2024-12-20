@@ -65,7 +65,7 @@ To get started with the programs, follow these steps:
 
 ### Advanced
 
-- **[Anagram.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/Anagram.java)**: Checks if two strings are anagrams.
+- **[Anagram.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/anagram.java)**: Checks if two strings are anagrams.
 - **[TwoSum.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/TwoSum.java)**: Finds two numbers in an array that sum to a target value.
 - **[ThreeSum.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/ThreeSum.java)**: Finds three numbers in an array that sum to a target value.
 
