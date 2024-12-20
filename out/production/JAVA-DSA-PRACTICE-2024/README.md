@@ -26,7 +26,6 @@ To get started with the programs, follow these steps:
    git clone https://github.com/ADITYAPIMPALE11127/dsa-java-programs.git
    cd dsa-java-programs
 Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse, VS Code).
-
 Navigate through the programs and start exploring the concepts.
 
 ## Programs
@@ -48,6 +47,12 @@ Navigate through the programs and start exploring the concepts.
 - **[userInput.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/userInput.java)**: Takes user input.
 - **[votingEligible.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/votingEligible.java)**: Checks if a user is eligible to vote.
 - **[vowelChecker.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/vowelChecker.java)**: Checks if a character is a vowel.
+- **[CharisVowelOrConsonant.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/CharisVowelOrConsonant.java)**: Checks if a character is a vowel or consonant.
+- **[primeNumber.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/primeNumber.java)**: Checks if a number is prime.
+- **[LeapYear.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/LeapYear.java)**: Checks if a year is a leap year.
+- **[NumPositiveOrNegOrZero.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/NumPositiveOrNegOrZero.java)**: Checks if a number is positive, negative, or zero.
+- **[TriangleOrNot.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/TriangleOrNot.java)**: Checks if three sides can form a triangle.
+- **[concatanateString.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/concatanateString.java)**: Concatenates two strings.
 
 ### Intermediate
 
@@ -61,6 +66,7 @@ Navigate through the programs and start exploring the concepts.
 
 Currently, this section is under development. Stay tuned for more advanced programs!
 
+
 Contributing
 We welcome contributions! If you'd like to contribute:
 
@@ -70,4 +76,3 @@ Make your changes.
 Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/YourFeature).
 Open a pull request.
-Please make sure to follow the coding style and include comments to explain your code.
