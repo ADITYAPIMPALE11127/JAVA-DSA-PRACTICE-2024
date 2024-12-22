@@ -25,8 +25,9 @@ To get started with the programs, follow these steps:
    ```bash
    git clone https://github.com/ADITYAPIMPALE11127/dsa-java-programs.git
    cd dsa-java-programs
-Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse, VS Code).
-Navigate through the programs and start exploring the concepts.
+   ```
+2. Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse, VS Code).
+3. Navigate through the programs and start exploring the concepts.
 
 ## Programs
 
@@ -64,15 +65,30 @@ Navigate through the programs and start exploring the concepts.
 
 ### Advanced
 
-Currently, this section is under development. Stay tuned for more advanced programs!
+- **[Anagram.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/anagram.java)**: Checks if two strings are anagrams.
+- **[TwoSum.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/TwoSum.java)**: Finds two numbers in an array that sum to a target value.
+- **[ThreeSum.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/ThreeSum.java)**: Finds three numbers in an array that sum to a target value.
 
+## Contributing
 
-Contributing
 We welcome contributions! If you'd like to contribute:
 
-Fork the repository.
-Create a new branch (git checkout -b feature/YourFeature).
-Make your changes.
-Commit your changes (git commit -m 'Add some feature').
-Push to the branch (git push origin feature/YourFeature).
-Open a pull request.
+1. Fork the repository.
+2. Create a new branch:
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. Make your changes.
+4. Commit your changes:
+   ```bash
+   git commit -m 'Add some feature'
+   ```
+5. Push to the branch:
+   ```bash
+   git push origin feature/YourFeature
+   ```
+6. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
