@@ -58,6 +58,11 @@ To get started with the programs, follow these steps:
 - **[Swapwithout.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/Swapwithout.java)**: Swaps two numbers without a third variable.
 - **[SumofaNumber.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/SumofaNumber.java)**: Adds the digits of a given number.
 
+### Star Pattern
+- **[RightAngledTriangle.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/RightAngledTriangle.java)**: Prints Right angled triangle in star pattern.
+- **[sqaurePattern.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/sqaurePattern.java)**: Prints square shaped star pattern.
+- **[InvertedRightAngledTriangle.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/InvertedRightAngledTriangle.java)**: Prints Inverted Right angled triangle in star pattern.
+
 ### Intermediate
 
 - **[MaxInArray.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/MaxInArray.java)**: Finds the maximum value in an array.
