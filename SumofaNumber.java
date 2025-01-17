@@ -5,7 +5,7 @@ public class SumofaNumber {
         System.out.print("Enter the number: ");
         int number = input.nextInt();
 
-        number = Math.abs(number);
+        number = Math.abs(number); // doesn't take negative number
         int sum = 0;
         while(number > 0){
             int LastDigit = number % 10;

@@ -42,6 +42,7 @@ To get started with the programs, follow these steps:
 - **[evenOdd.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/evenOdd.java)**: Checks if a number is even or odd.
 - **[factorial.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/factorial.java)**: Calculates the factorial of a number.
 - **[fibonacciSeries.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/fibonacciSeries.java)**: Generates the Fibonacci series.
+- **[ifelsePrint.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/ifelsePrint.java)**: Prints strings based on if-else conditions.
 - **[operators.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/operators.java)**: Demonstrates the use of operators in Java.
 - **[printFriendsNames.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/printFriendsNames.java)**: Prints a list of friends' names.
 - **[temperature.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/temperature.java)**: Converts temperature between Celsius and Fahrenheit.
@@ -54,6 +55,13 @@ To get started with the programs, follow these steps:
 - **[NumPositiveOrNegOrZero.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/NumPositiveOrNegOrZero.java)**: Checks if a number is positive, negative, or zero.
 - **[TriangleOrNot.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/TriangleOrNot.java)**: Checks if three sides can form a triangle.
 - **[concatanateString.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/concatanateString.java)**: Concatenates two strings.
+- **[Swapwithout.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/Swapwithout.java)**: Swaps two numbers without a third variable.
+- **[SumofaNumber.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/SumofaNumber.java)**: Adds the digits of a given number.
+
+### Star Pattern
+- **[RightAngledTriangle.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/RightAngledTriangle.java)**: Prints Right angled triangle in star pattern.
+- **[sqaurePattern.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/sqaurePattern.java)**: Prints square shaped star pattern.
+- **[InvertedRightAngledTriangle.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/InvertedRightAngledTriangle.java)**: Prints Inverted Right angled triangle in star pattern.
 
 ### Intermediate
 
