@@ -80,7 +80,7 @@ To get started with the programs, follow these steps:
 - **[reverseString.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/reverseString.java)**: Reverses a given string.
 - **[MaxSubarrayKadane.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/MaxSubarrayKadane.java)**: Finds the maximum sum subarray using Kadane's algorithm.
 - **[Palindrome.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/Palindrome.java)**: Checks if a given string is a palindrome.
-- **[ReplaceCharacter.java](](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/ReplaceCharacter.java)**: Replaces a char at specific target in a string.
+- **[ReplaceCharacter.java]((https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/ReplaceCharacter.java)**: Replaces a char at specific target in a string.
 
 
 ## Contributing
