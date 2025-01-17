@@ -70,12 +70,18 @@ To get started with the programs, follow these steps:
 - **[SecondMinOfArray.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/SecondMinOfArray.java)**: Finds the second minimum value in an array.
 - **[SumOfMinMax.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/SumOfMinMax.java)**: Calculates the sum of the minimum and maximum values in an array.
 - **[newArrr.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/newArrr.java)**: Example of array manipulation.
+- **[SumOfArray.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/SumOfArray.java)**: Calculates the sum of all elements in an array.
 
 ### Advanced
 
 - **[Anagram.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/anagram.java)**: Checks if two strings are anagrams.
 - **[TwoSum.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/TwoSum.java)**: Finds two numbers in an array that sum to a target value.
 - **[ThreeSum.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/ThreeSum.java)**: Finds three numbers in an array that sum to a target value.
+- **[reverseString.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/reverseString.java)**: Reverses a given string.
+- **[MaxSubarrayKadane.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/MaxSubarrayKadane.java)**: Finds the maximum sum subarray using Kadane's algorithm.
+- **[Palindrome.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/Palindrome.java)**: Checks if a given string or number is a palindrome.
+- **[ReplaceCharacter.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA
+
 
 ## Contributing
 
