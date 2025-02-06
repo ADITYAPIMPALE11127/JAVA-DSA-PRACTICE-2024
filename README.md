@@ -82,7 +82,8 @@ To get started with the programs, follow these steps:
 - **[Palindrome.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/Palindrome.java)**: Checks if a given string is a palindrome.
 - **[ReplaceCharacter.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/ReplaceCharacter.java)**: Replaces a char at specific target in a string.
 
-
+### Sorting
+- **[BubbleSort.java](https://github.com/ADITYAPIMPALE11127/JAVA-DSA-PRACTICE-2024/blob/master/BubbleSort.java)**: Sorts the array using bubble Sort by Swappping.
 ## Contributing
 
 We welcome contributions! If you'd like to contribute:
